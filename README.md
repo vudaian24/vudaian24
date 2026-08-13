@@ -12,6 +12,6 @@ and full-stack apps. Based in Hanoi, Vietnam.
 - [**authentication**](https://github.com/vudaian24/authentication) — hands-on authentication-pattern labs with a Docker/Jenkins CI pipeline
 - [**vin-landingpage**](https://github.com/vudaian24/vin-landingpage) — Next.js landing page → [live demo](https://vin-landingpage.vercel.app)
 
-**Stack:** Terraform · AWS · Docker · Kubernetes · GitHub Actions · Jenkins · TypeScript · Next.js · Spring Boot · Go
+**Stack:** Terraform · AWS · Docker · Kubernetes · GitHub Actions · Jenkins · TypeScript · Next.js
 
 **Contact:** [portfolio.anvd.io.vn](https://portfolio.anvd.io.vn/) · [LinkedIn](https://www.linkedin.com/in/anvd24) · anvd2401@gmail.com
