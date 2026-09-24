@@ -5,13 +5,14 @@ CI/CD pipelines and the full-stack apps that run on top of them.
 
 ## 🔭 Currently
 
-Building a reusable Terraform reference architecture for a typical AWS web stack:
-network, ECS/EKS, database, cache, queue and CDN/DNS modules, validated in CI.
+Extending [terraform-aws-reference](https://github.com/vudaian24/terraform-aws-reference),
+a reusable Terraform reference architecture for a typical AWS web stack.
 
 ## 📌 Featured
 
 | Project | Description |
 | --- | --- |
+| [terraform-aws-reference](https://github.com/vudaian24/terraform-aws-reference) | Reusable Terraform reference architecture for an AWS web stack: 10 modules (network, ALB, ECS, EKS, database, cache, queue, static site, ACM/DNS, GitHub Actions OIDC). CI runs `fmt` and `validate`, and apply is a manual, OIDC-authenticated workflow |
 | [my-portfolio](https://github.com/vudaian24/my-portfolio) | Personal site with live CV and project write-ups, built with Next.js and TypeScript. Live at [portfolio.anvd.io.vn](https://portfolio.anvd.io.vn/) |
 
 More project write-ups are on [my portfolio](https://portfolio.anvd.io.vn/).
