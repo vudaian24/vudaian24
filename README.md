@@ -1,17 +1,32 @@
-### Vũ Đại An
+# Hi, I'm Vũ Đại An 👋
 
-DevOps/Cloud-leaning engineer building infrastructure-as-code, CI/CD pipelines,
-and full-stack apps. Based in Hanoi, Vietnam.
+DevOps / Cloud engineer based in Hanoi, Vietnam. I build infrastructure as code,
+CI/CD pipelines and the full-stack apps that run on top of them.
 
-**Currently:** building out a reusable Terraform/AWS reference architecture — Aug 2026.
+## 🔭 Currently
 
-**Featured projects**
+Building a reusable Terraform reference architecture for a typical AWS web stack:
+network, ECS/EKS, database, cache, queue and CDN/DNS modules, validated in CI.
 
-- [**terraform-aws-reference**](https://github.com/vudaian24/terraform-aws-reference) — reusable Terraform modules for a full AWS web stack (network, ECS/EKS, DB, cache, queue, CDN/DNS), CI-validated
-- [**my-portfolio**](https://github.com/vudaian24/my-portfolio) — personal site & CV → [portfolio.anvd.io.vn](https://portfolio.anvd.io.vn/)
-- [**authentication**](https://github.com/vudaian24/authentication) — hands-on authentication-pattern labs with a Docker/Jenkins CI pipeline
-- [**vin-landingpage**](https://github.com/vudaian24/vin-landingpage) — Next.js landing page → [live demo](https://vin-landingpage.vercel.app)
+## 📌 Featured
 
-**Stack:** Terraform · AWS · Docker · Kubernetes · GitHub Actions · Jenkins · TypeScript · Next.js
+| Project | Description |
+| --- | --- |
+| [my-portfolio](https://github.com/vudaian24/my-portfolio) | Personal site with live CV and project write-ups, built with Next.js and TypeScript. Live at [portfolio.anvd.io.vn](https://portfolio.anvd.io.vn/) |
 
-**Contact:** [portfolio.anvd.io.vn](https://portfolio.anvd.io.vn/) · [LinkedIn](https://www.linkedin.com/in/anvd24) · anvd2401@gmail.com
+More project write-ups are on [my portfolio](https://portfolio.anvd.io.vn/).
+
+## 🛠️ Stack
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+
+## 📫 Contact
+
+[Portfolio](https://portfolio.anvd.io.vn/) · [LinkedIn](https://www.linkedin.com/in/anvd24) · [Email](mailto:anvd2401@gmail.com)
